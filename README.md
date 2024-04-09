@@ -19,7 +19,7 @@ Method 2 (For Ground Parking with Access Points):
 
 
 Frontend:
-    We created an app that displays the user about the available slots and unavailable slots in the parking lot, and when the user gets nearer to the parking location he/she can book the slots available and the booked slots will turn yellow until the car is parked
+    We created an mobile applocation that displays the user about the available slots and unavailable slots in the parking lot, and when the user gets nearer to the parking location he/she can book the slots available and the booked slots will turn yellow until the car is parked
     
 ![image](https://github.com/Boolean-Hooligans-356/Smart-car-parking-IOT-based/assets/96923418/27afd26f-ef17-4331-8a01-14d20cb76afa)
 
